@@ -1,0 +1,212 @@
+{
+  "plans": [
+    {
+      "id": 8,
+      "name": "10MIN UNLTD",
+      "router": 1,
+      "price": {
+        "unit": "KES",
+        "value": "1"
+      },
+      "bandwidth": {
+        "up": {
+          "unit": "Mbps",
+          "value": 10
+        },
+        "down": {
+          "unit": "Mbps",
+          "value": 10
+        }
+      },
+      "limit": {
+        "type": "Unlimited",
+        "data": {
+          "unit": "MB",
+          "value": 0
+        },
+        "time": {
+          "unit": "Hrs",
+          "value": 0
+        },
+        "validity": {
+          "unit": "Mins",
+          "value": 10
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "10MB",
+      "router": 1,
+      "price": {
+        "unit": "KES",
+        "value": "1"
+      },
+      "bandwidth": {
+        "up": {
+          "unit": "Mbps",
+          "value": 10
+        },
+        "down": {
+          "unit": "Mbps",
+          "value": 10
+        }
+      },
+      "limit": {
+        "type": "Limited",
+        "data": {
+          "unit": "MB",
+          "value": 10
+        },
+        "validity": {
+          "unit": "Hrs",
+          "value": 1
+        },
+        "time": {
+          "unit": "Hrs",
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Anguka Nayo",
+      "router": 1,
+      "price": {
+        "unit": "KES",
+        "value": "1"
+      },
+      "bandwidth": {
+        "up": {
+          "unit": "Mbps",
+          "value": 10
+        },
+        "down": {
+          "unit": "Mbps",
+          "value": 10
+        }
+      },
+      "limit": {
+        "type": "Limited",
+        "data": {
+          "unit": "GB",
+          "value": 3
+        },
+        "validity": {
+          "unit": "Days",
+          "value": 1
+        },
+        "time": {
+          "unit": "Hrs",
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Anguka Nayo",
+      "router": 1,
+      "price": {
+        "unit": "KES",
+        "value": "1"
+      },
+      "bandwidth": {
+        "up": {
+          "unit": "Mbps",
+          "value": 10
+        },
+        "down": {
+          "unit": "Mbps",
+          "value": 10
+        }
+      },
+      "limit": {
+        "type": "Limited",
+        "data": {
+          "unit": "GB",
+          "value": 3
+        },
+        "validity": {
+          "unit": "Days",
+          "value": 1
+        },
+        "time": {
+          "unit": "Hrs",
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Anguka Nayo",
+      "router": 1,
+      "price": {
+        "unit": "KES",
+        "value": "1"
+      },
+      "bandwidth": {
+        "up": {
+          "unit": "Mbps",
+          "value": 10
+        },
+        "down": {
+          "unit": "Mbps",
+          "value": 10
+        }
+      },
+      "limit": {
+        "type": "Limited",
+        "data": {
+          "unit": "GB",
+          "value": 3
+        },
+        "validity": {
+          "unit": "Days",
+          "value": 1
+        },
+        "time": {
+          "unit": "Hrs",
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Anguka Nayo",
+      "router": 1,
+      "price": {
+        "unit": "KES",
+        "value": "1"
+      },
+      "bandwidth": {
+        "up": {
+          "unit": "Mbps",
+          "value": 10
+        },
+        "down": {
+          "unit": "Mbps",
+          "value": 10
+        }
+      },
+      "limit": {
+        "type": "Limited",
+        "data": {
+          "unit": "GB",
+          "value": 3
+        },
+        "validity": {
+          "unit": "Days",
+          "value": 1
+        },
+        "time": {
+          "unit": "Hrs",
+          "value": 1
+        }
+      }
+    }
+  ],
+  "title": "Zeiteck Hotspot",
+  "description": "Affordable and Reliable Wifi",
+  "baseURL": "https://localhost:5500/",
+  "router": 1
+}

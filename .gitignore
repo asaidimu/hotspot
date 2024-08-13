@@ -138,3 +138,6 @@ test/
 .session.vim
 
 node_modules
+public/css/styles.css
+site
+site.zip
