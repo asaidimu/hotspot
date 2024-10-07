@@ -2,7 +2,7 @@
 
 The **Zeiteck ISP Capture Portal** is the UI for an internet service provider (ISP) capture portal. The UI is designed to offer a seamless and intuitive experience for users logging into the ISP's network. Built using modern web technologies, it provides an efficient and responsive interface for both desktop and mobile environments.
 
-![tag](https://img.shields.io/github/v/tag/yourusername/hotspot?sort=semver)
+![tag](https://img.shields.io/github/v/tag/asaidimu/hotspot?sort=semver)
 
 ## Why Zeiteck ISP Capture Portal?
 
